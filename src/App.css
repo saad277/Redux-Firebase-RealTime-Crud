@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+ 
+  padding: 10px;
+  font-size: 22px;
+  color: white;
+ 
+  
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
+.left{
+
+    height:600px;
+    padding-top: 40px;
+    width:600px;
+    border-style: solid;
+    margin-top: 10px;
+    margin-left:100px;
+
+
+}
+
+
